@@ -12,7 +12,7 @@ fontsize: 12pt
 The study group meets approximately every other Wednesday, from 14:00 to 16:00.
 
 ## 13. September
-First meeting of the term. This term we will continue working on our basic understanding of database management with PostgreSQL, through psql Shell and PGAdmin. We will also explore various tools for data visualisation and test the text recognition software Transkribus. In addition, we may explore any digital tool, resource or method of interest to group members.
+First meeting of the term. In this meeting, we will start exploring tools and methods for data visualisation. If you are interested in browsing some tools and resources in advance of the meeting, I recommend the Digital Scholarship Center's [Visualization](https://www.ub.uio.no/english/libraries/dsc/research-methods/visualization/) pages.
 
 ## 27. September
 
