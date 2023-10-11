@@ -11,7 +11,7 @@ fontsize: 12pt
 
 ## Visualizing max. and min. manuscript dates from a csv. file using the plotting library Matplotlib
 
-### Script #1
+### Example 1
 
 Tips: 
 * The csv. file and the py. file with the script have to be in the same folder
