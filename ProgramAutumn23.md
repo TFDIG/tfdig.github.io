@@ -19,6 +19,7 @@ Meeting cancelled due to illness.
 
 ## 11. October
 Topic: Python for our research fields: Text mining/Digital text analysis and Data Visualization
+<br>
 Schedule: First, we go through a Python script made for visualizing a simple data set from a csv. file using the plotting library Matplotlib, and look at some examples of what we can do with Python that is relevant for our research fields. 
 Then we start following a Python beginner's course, tailored for humanities research, from scratch. 
 
