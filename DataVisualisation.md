@@ -17,6 +17,9 @@ Tips:
 * The csv. file and the py. file with the script have to be in the same folder
 * You can easily edit the "max_rows" value to include more or less data
 
-[The script](/example1.py)
-[The csv. file](/example1.csv)
+[Image of the script](/example1.png)
+<br>
+[The script file](/example1.py)
+<br>
+[The csv. data file](/example1.csv)
 
