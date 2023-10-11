@@ -13,10 +13,14 @@ fontsize: 12pt
 
 ### Script #1
 
+Tips: 
+* The csv. file and the py. file with the script have to be in the same folder
+* You can easily edit the "max_rows" value to include more or less data
+
 import csv as csv
 import matplotlib.pyplot as plt
 
-file = open("sample_date.csv", 'r')
+file = open("file_name.csv", 'r')
 
 csv_data = csv.reader(file)
 
@@ -53,5 +57,3 @@ plt.title("Manuscript time periods")
 plt.savefig('figure.png')
 plt.show()
 plt.close()
-
-## See more examples on the [Matplotlib website](https://matplotlib.org/stable/gallery/index.html)
