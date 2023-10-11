@@ -54,4 +54,4 @@ plt.savefig('figure.png')
 plt.show()
 plt.close()
 
-## See more examples on the [Matplotlib website](7https://matplotlib.org/stable/gallery/index.html)
+## See more examples on the [Matplotlib website](https://matplotlib.org/stable/gallery/index.html)
